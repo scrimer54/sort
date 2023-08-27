@@ -3,10 +3,7 @@ import sys
 import scan
 import normalize
 from pathlib import Path
-import os
-import zipfile
-import tarfile
-import gzip
+
 
 
 
